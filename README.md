@@ -31,13 +31,20 @@ Luego una lista ordenada:
     * Ítem uno de tres
     * Ítem dos de tres
     
-` 
-Ahora una línea de código 
-`
+` Ahora una línea de código `
+
+También mezclando `código` dentro de un párrafo común.
 
 ~~~
 En este caso con virgulillas.
 ~~~
+
+~~~
+En este caso con virgulillas
+
+pero en dos líneas.
+~~~
+
 
 
 
