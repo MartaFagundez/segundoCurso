@@ -35,9 +35,9 @@ Luego una lista ordenada:
 
 También mezclando `código` dentro de un párrafo común.
 
-~~~
-En este caso con virgulillas.
-~~~
+```
+En este caso con tildes triples.
+```
 
 ~~~
 En este caso con virgulillas  
