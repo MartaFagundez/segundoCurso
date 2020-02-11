@@ -14,3 +14,12 @@ Salto de línea (doble espacio antes del enter).
 
 > Cita en más  
 > de una línea.
+
+Ahora una lista desordenada:  
+- Primer ítem
+- Segundo ítem
+- Tercer ítem
+    - Primer ítem del tercer ítem
+
+Luego una lista ordenada:  
+1
