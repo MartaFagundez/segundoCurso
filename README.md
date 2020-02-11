@@ -1,4 +1,12 @@
-# Esta es una prueba para el segundo curso de Git y Github
+# Léeme
+
+
 Esta es una descripción de prueba :)
-Ahora modifico el Readme desde VSC.
-Y ahora modifico el Readme desde Github
+
+## Encabezado nivel 2
+
+Texto en una línea.  
+Salto de línea (doble espacio antes del enter).
+
+### Encabezado nivel 3
+
