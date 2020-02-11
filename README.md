@@ -31,11 +31,15 @@ Luego una lista ordenada:
     * Ítem uno de tres
     * Ítem dos de tres
     
-` Ahora una línea de código `
+` 
+Ahora una línea de código 
+`
 
 ~~~
-En este caso con virgulillas
+En este caso con virgulillas.
 ~~~
+
+
 
 
 
