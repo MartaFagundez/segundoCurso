@@ -20,6 +20,15 @@ Ahora una lista desordenada:
 - Segundo ítem
 - Tercer ítem
     - Primer ítem del tercer ítem
+    - Segundo ítem del tercer ítem
 
 Luego una lista ordenada:  
-1
+1. Número uno
+2. Número dos
+    . Ítem uno de dos
+    . Ítem dos de dos
+3. Número tres
+    3. 1. Ítem uno de tres
+    3. 2. Ítem dos de tres
+
+
