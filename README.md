@@ -40,7 +40,7 @@ En este caso con virgulillas.
 ~~~
 
 ~~~
-En este caso con virgulillas
+En este caso con virgulillas  
 
 pero en dos líneas.
 ~~~
