@@ -30,5 +30,12 @@ Luego una lista ordenada:
 3. Número tres
     * Ítem uno de tres
     * Ítem dos de tres
+    
+` Ahora una línea de código `
+
+~~~
+En este caso con virgulillas
+~~~
+
 
 
