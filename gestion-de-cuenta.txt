@@ -1,2 +1,4 @@
 Esta es una faq sobre la gestión de tu cuenta.
-Ahora agregamos algo más a nivel local.
+
+Quito una línea y la sustituyo por un salto de línea y luego esta nueva línea.
+También agrego esta otra línea.
